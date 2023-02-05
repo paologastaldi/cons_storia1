@@ -1,12 +1,12 @@
 # 2022-11-29: appunti dal libro `[pagg 48-54]`
 
-# Il canto gregoriano e il canto profano nel medioevo
+## Il canto gregoriano e il canto profano nel medioevo
 
 Chiesa cattolica - Concilio Vaticano II (1962-1965):
 - rimozione del latino, liturgia in lingua volgare
 - il canto gregoriano passa in secondo piano
 
-## La natura del canto gregoriano `[pag 49]`
+### La natura del canto gregoriano `[pag 49]`
 
 Caratteristiche:
 - mancanza di armonia di supporto

@@ -1,1 +1,0 @@
-# 2022-11-29: appunti dal libro `[pagg 38-48]`

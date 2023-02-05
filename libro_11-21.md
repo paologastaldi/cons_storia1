@@ -1,14 +1,22 @@
 # 2022-11-24: appunti dal libro `[pagg 11-21]`
 
-## Greci
+## La situazione della musica alla fine dell'evo antico `[pag 10]`
+
+---
+
+## L'eredità greca `[pag 12]`
 
 Musica: da musa. Dee sorelle delle arti e delle scienze.
+
+### La musica nella vita e nel pensiero dell'antica Grecia `[pag 13]`
 
 Fonti secondarie:
 - mitologia
 - racconti di competizioni musicali
 - descrizione degli strumenti musicali
 - (rarissime) descrizioni di composizioni
+
+### La teoria musicale greca `[pag 15]`
 
 Musica greca: ipotesi che sia assimilabile alla musica cristiana primitiva, ma non diretta conferma:
 1. monodica: cori a distanza di ottava
@@ -34,8 +42,7 @@ Legame musica e scienza:
 - fisica
 - astronomia
 
-### Musica e poesia
-
+**Musica e poesia** \
 Per i greci: musica e poesia assimilabili allo stesso concetto (non unione vera e proprio, ma stessa cosa):
 - poesia lirica: poesia cantata con la lira
 - tragedia: significa _cantare_
@@ -47,13 +54,13 @@ Per i greci: musica e poesia assimilabili allo stesso concetto (non unione vera 
 **Aristotele:** \
 La musica imita l'animo e le passioni umane. Da qui l'unione di strumenti musicali eterogenei negli ensemble.
 
-### Regole
-
+**Regole** \
 Platone e Aristotele: accettano la musica per divertimento/godimento intellettuale, ma nell'educazione deve avere regole/leggi.
 
 Stato: limiti alla musica e all'attività musicale. Lo farà anche la Chiesa e ogni forma di Stato/Potere successivo.
 
-**Ethos:** (dottrina greca)
+### La dottrina dell'ethos `[pag 17]`
+
 Il pensiero alla base è che la musica è in grado di influenzare il carattere: tipi di musica diversi => effetti diversi:
 - Apollo: suonatore di lira:
     + clima: calma, elevazione spirituale
@@ -64,7 +71,7 @@ Il pensiero alla base è che la musica è in grado di influenzare il carattere: 
     + forme poetiche: ditirambo, dramma
     + tendenza: romantica
 
-## Romani `[pag 20]`
+### La musica nell'antica Roma `[pag 20]`
 
 Musica inserita nei percorsi educativi.
 
@@ -77,8 +84,7 @@ Musica durante l'impero romano:
 - III, IV: declino dell'impero e minore interesse agli aspetti musicali
 - V: fine del mondo antico >> fine della musica profana
 
-## Fine del mondo antico
-
+**Fine del mondo antico** \
 Trasmissione al medioevo:
 1. una linea melodica principale
 2. legame ritmo e metrica delle parole

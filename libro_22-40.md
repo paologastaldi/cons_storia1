@@ -1,4 +1,4 @@
-# 2022-11-27: appunti dal libro `[pagg 22-38]`
+# 2022-11-27: appunti dal libro `[pagg 22-40]`
 
 ## Prima Chiesa cristiana `[pag 22]`
 
@@ -7,8 +7,9 @@ Aspetti ripudiati:
     + occasioni conviviali
     + feste, gare, eventi pubblici, rappresentazioni drammatiche
 
-### Aspetti simili:
+### L'eredità ebraica `[pag 22]`
 
+**Aspetti simili** \
 Riti simili a quelli ebraici. Musica per funzione liturgica:
 - salmodia reponsoriale: salmi cantati a metà dal solista, a metà dai fedeli:
     + versetti dei salmi formati da 2 frasi parallele (sullo stesso concetto/tema)
@@ -35,7 +36,7 @@ Scissione delle Chiese/scisma (1054 d.C.):
     + russa
     + …
 
-### Chiesa bizantina:
+### Bisanzio `[pag 23]`
 
 Scissione anche a livello musicale, contrapposizione delle due Chiese.
 
@@ -62,15 +63,12 @@ Repertori di motivetti/frammenti musicali: a scelta in base al periodo dell'anno
 
 Alla base dei modi.
 
-### Sistema bizantino dei modi
-
+**Sistema bizantino dei modi** \
 Sono delle raggruppamenti di motivetti. Analizzandoli ne sono state estratte le scale.
 
 8 echoi bizantini. Nel medieovo in occidente diventeranno gli 8 modi ecclesiasitici. Unione di echoi (binzantini) e tonoi (greci).
 
----
-
-### Chiesa Occidentale
+### Le liturgie occidentali `[pag 26]`
 
 Periodi storici:
 - V-IX secolo: varie forme di liturgia
@@ -99,7 +97,7 @@ Liturgia ambrosiana:
 - introduce l'Inno
     > Attenzione: ci sono correnti di pensiero non uniformi sull'introduzione degli Inni in Occidente
 
-### Inno `[pag 27]`
+**Inno** `[pag 27]`
 
 Caratteristiche:
 - di origine dell'area greca (Chiesa Bizantina)
@@ -124,7 +122,8 @@ Chiesa - canto liturgico:
 - Bizantino: molti ornamenti e scale orientali.
 - Occidentale: semplicità, ordine (IV secolo)
 
-Storia della Chiesa Occidentale: `[pag 30]`
+### Il predominio di Roma `[pag 30]`
+
 - IV secolo: fine esistenza sotterranea, passaggio dal greco al latino
 - V-VII secolo: la Chiesa acquisisce importanza e ricchezza:
     + Costruzione di grandi basiliche e uffici liturgici
@@ -136,9 +135,7 @@ Storia della Chiesa Occidentale: `[pag 30]`
 - XI-XII: manoscritti del _canto romano antico_. Ma è impossibile stabilire come venissero eseguiti. **Canto gregoriano**: collezione dei canti del primo millennio cristiano
 - XII-XIII: distinzione tra _cantus planus_ (canto gregoriano, monodico) e _cantus figuralis o mensuratus_ (musica polifonica "misurata" del medioevo)
 
----
-
-## Riepilogo `[pag 36]`
+### Riepilogo `[pag 36]`
 
 Musica fino a Gregorio Magno (secoli I-XI):
 - prima era cristiana, culto primitivo
@@ -175,8 +172,9 @@ Raccolta, riassunto, modifiche e trasmissione al mondo Occidentale:
 - Marziano Cappella
 - Boezio (480-524)
 
-### Boezio - _De istitutione musica_ `[pag 37]`
+### Boezio `[pag 37]`
 
+**De istitutione musica** \
 Musica: corollario della matematica (come Pitagora e Platone). Quindi: musica come strumento di conoscenza, non per trasmettere emozioni.
 
 Grande importanza razionale: riconoscimento di intervalli, ritmi… L'esecuzione passa in secondo piano.
@@ -194,3 +192,5 @@ _quadrivium_ - 4 scienze fondamentali nel sistema di educazione medievale:
 - geometria
 - astronomia
 - musica
+
+### I Padri della Chiesa `[pag 38]`
