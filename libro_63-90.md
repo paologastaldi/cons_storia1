@@ -400,23 +400,133 @@ _refrains_:
 
 ## La musica strumentale e gli strumenti nel Medioevo `[pag 84]`
 
+_estampie_: brano di danza
+- XIII-XIV secolo in Europa continentale ed Inghilterra
+- estampie italiane: derivate da quelle francesi (XIII secolo)
+- ripetizioni, cadenze aperte e chiuse: riferimento alle Sequenze
+
+Repertorio strumentale:
+- ci è noto solo dal XIII secolo in poi
+- prima: fonti secondarie
+    + bassorilievi
+    + miniature
+    + pitture
+ 
+Strumenti:
+- arpa romana
+- lira: dalla Britannia ed Irlanda (IX secolo)
+- viella/Fiedel: prototipo degli attuali viola e violino (XIII secolo)
+    + 5 corde, una di bordone
+    + usato dai _Jongleurs_
+- _organistrum_: ghironda
+    + viella a 3 corde, messe in moto da una ruota girata da una manovella
+    + note premute da levette al posto delle dita
+    + inizialmente grandi dimensioni: 2 esecutori
+- _salterio_: simile a una cetra
+    + corde:
+        - pizzicate
+        - percosse: come il clavicembalo e il clavicordo
+- liuto: introdotto in Spagna dai mussulmani nel IX secolo
+- flauti:
+    + dolci
+    + traversi
+- _cennamelle_: ~oboe
+- trombe, corni: usati solo dalla nobiltà
+- cornamusa: popolare
+- tamburi: dal XII secolo, per le danze
+- grandi organi nelle chiese
+- organi di ridotte dimensioni:
+    + portativo:
+        - indossato dall'esecutore, con cinghie
+        - a scorrimento
+        - sx: mandice, dx: tasti o cursori
+    + positivo:
+        - poteva essere trasportato
+        - ma per suonare: doveva essere appoggiato su un tavolo e un aiutante al mantice
+
+Origine strumenti:
+- Asia: passano da Bisanzio
+- Arabi, nord Africa: passano dalla Spagna
+
+Musica medioevale:
+- non descrive la varietà di strumenti
+- non descrive come gli strumenti erano utilizzati
+
+Musica monodica:
+- in Europa, fino al XVI secolo
+    + fino ad allora: pochi altri autori scrivono musica polifonica oltre a Guillaime de Machaut
+- eseguita da dilettanti:
+    + trovatori, trovieri
+    + _Minnelieder_
+- non da musicisti di professione
+
+---
+
 ## Appendice: Un esempio tipico di Messa e Ufficio `[pag 87]`
 
+Esempio: Messa di Settuagesima (non particolarmente importante)
+
 ### Introito`[pag 87]`
+2 stili:
+- salmo: di carattere recitativo
+- dossologia: recitazione sillabica con una nota centrale ribattuta
 
 ### Kyrie `[pag 87]`
+- schema ripetitivo, con alcune parole più importanti su cui si basano le ripetizioni
 
 ### Graduale `[pag 87]`
+- tipo di salmodia responsoriale:
+    + alternarsi di solista e risposta del coro
+- contengono lunghi melismi:
+    + salmo: di carattere elaborato e solistico
+- spesso la ripetizione è l'unico fattore unificante
 
 ### Alleluia `[pag 88]`
+- canto responsoriale
+- nel periodo pasquale: sostituita dal Tratto
+- salmodia diretta: versi non preceduti/interrotti da antifona o responso
+
 ### Tratto `[pag 88]`
+- basati sulla ripetizione di alcune frasi
+
 ### Credo `[pag 88]`
+- dopo la lettura del Vangelo
+
 ### Offertorio `[pag 89]`
+- Credo e omelia: divisione tra prima e seconda parte della Messa
+- inizialmente prevedeva dei salmi, ora solo alcuni versetti
+
 ### Sanctus `[pag 89]`
+- anticipato dal Prefazio: canto più melodico
+- _Sanctus_ e _Benedictus_: cantati dal coro
+
 ### Agnus Dei, Communio `[pag 89]`
+- _Pater noster_ e _Agnus dei_
+- vengono consumati pane e vino
+- _Communio_: in origine, un salmo
+    + la Messa finisce con un salmo antifonale, come è iniziata (indipendentemente dalla Postcommunio)
+
 ### Benedicamus Domino `[pag 89]`
+- _Ite Missa est_ e _Benedicamus Domino_: canto responsoriale tra celebrante e coro
 
 ### Salmi `[pag 89]`
+
+Esempio: Ufficio dei Secondi Vespri per la nascita di Nostro Signore
+- Uffici celebrati al tramonto
+- dopo le preghiere introduttive, si canta un salmo: non come i toni salmodici, formula più elaborata
+- dopo il salmo: Dossologia
+
 ### Responsio `[pag 89]`
+- segue la lettura biblica: salmodia responsoriale abbreviata tra coro e solista
+
 ### Inno `[pag 89]`
+- solitamente strofico:
+    + numero di versi, di sillabe e il metro: regolare per tutto l'inno
+- esecuzione:
+    + valori di durata libera
+    + ritmicamente
+
 ### Magnificat `[pag 90]`
+- chiude il servizio dei Vespri
+- preceduto e seguito da un'antifona
+- cantato con una formula simile a quella dei salmi
