@@ -1,6 +1,6 @@
 # 2023-02-05: appunti libro `[pagg 91-127]`
 
-# Le origini della polifonia e la musica del XIII secolo `[pag 91]`
+# Le origini della polifonia e la musica del XIII secolo [cap 3] `[pag 91]`
 
 ## Le premesse storiche della prima polifonia `[pag 91]`
 
