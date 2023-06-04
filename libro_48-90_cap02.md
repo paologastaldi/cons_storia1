@@ -73,7 +73,7 @@ Messa:
     + Santa Comunione
     + Cena del Signore
 - struttura del rito:
-    + commemorazione dell'"ultima cena": consacrazione pane e vino
+    + commemorazione dell'"Ultima cena": consacrazione pane e vino
     + preceduta da azioni derivate dai rituali ebraici
 
 Tipi di messa:
@@ -84,7 +84,7 @@ Tipi di messa:
 - "Messa bassa/messa privata":
     + 1 sacerdote + 1 chierico
     + più breve, più semplice
-    + messa recitana più che cantata
+    + messa recitata più che cantata
 - "Messa cantata":
     + via di mezzo
     + 1 sacerdote + coro + assemblea
@@ -92,11 +92,11 @@ Tipi di messa:
 
 Parti della Messa (in ordine):
 - Introito: salmo con una sua antifona (poi ridotto)
-- Kyrie
+- Kyrie (abbr. di Kyrie eleison): preghiera litanica (successione di invocazioni (di lode o di richiesta) enunciate da un sacerdote)
 - Gloria
 - lettura preghiere
 - lettura epistola del giorno
-- Graduale
+- Graduale: canto melismatico (tratto dal libro dei Salmi o dal Vangelo)
 - Alleluia (o Tratto, nei periodi penitenziali in quanto più solenne)
 - lettura Vangelo
 - Credo
@@ -185,6 +185,8 @@ Corpus del canto Gregoriano:
     + non dovrebbero essere incluse nel Canto Gregoriano
     + ma questo termine ha un significato del periodo storico
 
+---
+
 ## Classi, forme e tipi del canto gregoriano `[pag 57]`
 
 Canti:
@@ -235,6 +237,8 @@ Forma:
     + es. inni: stessa melodia in molte parti del testo
 - libera:
     + tutti gli altri tipi
+
+---
 
 ## Toni salmodici e di recitazione `[pag 58]`
 
@@ -454,7 +458,10 @@ Trattati musicali - tipologie:
     + riguardavano l'_ethos_
     + preparazione a studi filosofici superiori
     + relazione musica-matematica
-    + trattato di Boezio:
+    + trattato di Boezio (475/477 - 524/526):
+        - Anicio Manlio Torquato Severino Boezio
+        - profonda influenza sulla filosofia cristiana del Medioevo
+        - _De institutione musica_ (~500-507)
         - alla base della didattica nel medioevo
         - _quadrivium_: aritmetica, geometria, astronomia, musica
     + comprendeva estetica, acustica, psicologia della musica
@@ -544,7 +551,7 @@ Modi:
 
 ### Il sistema esacordale `[pag 71]`
 
-Guido D'Arezzo:
+Guido D'Arezzo (~991/992 – 1045-1050):
 - sviluppa il canto a memoria
 - sistema per ricordare le note _do_, _re_, _mi_, _fa_, _sol_, _la_ (nell'ordine):
     + semitono tra _mi_ e _fa_, tono tra gli altri
@@ -756,11 +763,10 @@ _refrains_:
 
 ### Hans Sachs `[pag 83]`
 
-- Minstersinger del XVI secolo
+- Meinstersinger del XVI secolo
 - riprende composizioni dei Minnesinger
 - arte limitata da molte regole della corporazione:
     + la musica risulta più fredda di quella dei Minnesinger
-
 
 ### Altri tipi di canti `[pag 83]`
 
@@ -849,6 +855,7 @@ Esempio: Messa di Settuagesima (non particolarmente importante)
 2 stili:
 - salmo: di carattere recitativo
 - dossologia: recitazione sillabica con una nota centrale ribattuta
+> Dossologia: esclamazione rituale, una formula, un breve inno, che loda, esalta e glorifica Dio
 
 ### Kyrie `[pag 87]`
 - schema ripetitivo, con alcune parole più importanti su cui si basano le ripetizioni

@@ -206,7 +206,9 @@ Caratteristiche:
 - celebrazione delle attività cristiane => non solo dalle Sacre Scritture. Per esprimere sentimenti personali, individuali
 - melodie di origine popolare
 
-> Sant'Ambrogio: battezza sant'Agostino
+> Sant'Ambrogio: battezza sant'Agostino:
+
+> Sant'Ambrogio (339/340-397), sant'Agostino (354-430)
 
 Forme compositive:
 - corpus delle salmodie responsabile e antifonale
