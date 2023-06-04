@@ -623,6 +623,7 @@ Secoli I-XI:
     + monodico
     + a metà tra sacro e profano
     + durante la conduzione in processione
+        > processione per arrivare all'ambone (dove vengono proclamate le letture)
     + scarso legame con la liturgia:
         - canti in latino non liturgici
         - carattere grave
