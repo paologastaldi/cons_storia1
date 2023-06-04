@@ -74,8 +74,8 @@ Polifonia:
 - melodia del canto piano
     + realizzata dalla voce inferiore
     + diventa quasi un bordone
-    + tiene la voce superiore: _tenor_
-    + _organum_: si riferisce propriamente solo alla voce inferiore con note lunghe
+    + tiene la voce superiore: la voce grave viene detta _tenor_
+    + _organum_: si riferisce propriamente solo alla funzione della voce inferiore con note lunghe
 - voce superiore: solista
     + intonazione di frasi melodiche di diversa durata
     + melodia più elaborata
@@ -320,7 +320,7 @@ Tipi di mottetto:
     - triplum vivace
     - motetus lento
     - tenor: gregoriano, su rigido modulo ritmico
-2. 
+2. (altro)
     - tenor: francese, profano
     - maggiore similarità ritmica tra le voci
     - triplum: melodia più spiccata
