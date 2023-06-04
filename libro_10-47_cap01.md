@@ -1,6 +1,6 @@
 # 2022-11-27: appunti dal libro `[pagg 10-47]`
 
-## La situazione della musica alla fine dell'evo antico `[pag 10]`
+## La situazione della musica alla fine dell'evo antico [cap 1] `[pag 10]`
 
 ---
 

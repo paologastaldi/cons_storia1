@@ -1,6 +1,6 @@
 # 2022-11-29: appunti dal libro `[pagg 48-54]`
 
-## Il canto gregoriano e il canto profano nel medioevo
+## Il canto gregoriano e il canto profano nel medioevo [cap 2] `[pag 48]`
 
 Chiesa cattolica - Concilio Vaticano II (1962-1965):
 - rimozione del latino, liturgia in lingua volgare
