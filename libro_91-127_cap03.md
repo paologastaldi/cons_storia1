@@ -359,7 +359,9 @@ _cantilena_:
 
 ### Hochetus `[pag 126]`
 
+- "singhiozzo"
 - melodia divisa tra le voci
+    + mediante pause tra sillaba e sillaba
 
 ### Riepilogo `[pag 126]`
 
